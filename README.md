@@ -162,7 +162,7 @@ rectgrid.state.volume_integral?  # integrate scalars over the domain
 				     # in 'X','Y','Z','XY' or 'XYZ'
 rectgrid.state?? # View the code
 ```
-For documentation it better to use, help(func_name) eg: help(rectgrid.state). 
+For documentation its better to use, help(func_name) eg: help(rectgrid.state). 
 
 **MORE INFORMATION**
 
